@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-<<<<<<< HEAD
 html{
   height: 100%;
 }
@@ -14,11 +13,9 @@ body{
   background-repeat: no-repeat;
   font-family: 'Times New Roman', Times, serif;
   color: white;
-=======
 body{
   font-family: 'Times New Roman', Times, serif;
   background-color: #2c5c97;
->>>>>>> 70dea10f9959a04edb63f255b9352564f56544bc
 }
 
 #preloader {

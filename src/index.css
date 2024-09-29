@@ -2,6 +2,19 @@
 @tailwind components;
 @tailwind utilities;
 
+html{
+  height: 100%;
+}
+
+body{
+  height: 100%;
+  margin: 0;
+  background: linear-gradient(#330a69, #9198e5);
+  background-repeat: no-repeat;
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+}
+
 #preloader {
     position: fixed;
     top: 0;
